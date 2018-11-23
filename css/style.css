@@ -1,0 +1,33 @@
+.mainbox{
+    background-color: coral;
+    width: 800px;
+    margin: 0px auto;
+}
+.menu>ul>li{
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    background-color: burlywood;
+    position: relative;
+    top: 8px;
+    font-family: Tahoma, Serif;
+    font-size: 14.px;
+
+}
+.leftside{
+    background-color: darkblue;
+    width: 100px;
+    float: left;
+}
+.main{
+    background-color: darkgreen;
+    width: 100px;
+    float: left;
+}
+.rightside{
+    background-color: magenta;
+    width: 100px;
+    float: left;
+}
+.footer{
+    background-color: deeppink;
+}
